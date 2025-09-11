@@ -1,2 +1,2 @@
 discover songs you like 
-spotify is cool
+i am cool
