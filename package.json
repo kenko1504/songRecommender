@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kenko1504/songRecommender/issues"
   },
-  "homepage": "https://github.com/kenko1504/songRecommender#readme"
+  "homepage": "https://github.com/kenko1504/songRecommender#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
